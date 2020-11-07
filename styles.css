@@ -1,0 +1,149 @@
+body{
+line-height: 1.5;
+text-align: left;
+}
+img{
+  user-drag: none;
+-moz-user-select: none;
+-webkit-user-drag: none;
+-webkit-user-select: none;
+user-select: none;
+-ms-user-select: none;
+}
+#head-sec{
+background-color: #FBFBFB;
+padding-bottom: 9%;
+}
+#money-loss{
+  background-color: #FFF0F0;
+  padding-bottom: 2%;
+  padding-top: 1%;
+}
+#who-effected{
+  background-color: #FBFBFB;
+  padding-bottom: 3%;
+  padding-left: 3%;
+}
+#time-period{
+  background-color: #FFF0F0;
+  padding-bottom: 2%;
+  padding-top: 1%;
+}
+#revive{
+  background-color: #FBFBFB;
+  padding-bottom: 10%;
+  padding-left: 3%;
+}
+#footer{
+  background-color: #FFF0F0;
+  padding-bottom: 2%;
+  padding-top: 2%;
+  padding-left: 40%;
+}
+.navbar-brand{
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 600;
+font-size: 1.5rem;
+}
+.header{
+  background-color: #F9B1B1;
+}
+.nav-item{
+  padding-left: 2.5rem;
+}
+.title-icon{
+  width: 5%;
+  padding-right: 20px;
+}
+a{
+  text-decoration: none;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 500;
+  font-size: 1.1rem;
+}
+h1{
+  font-family: 'Open Sans';
+  font-weight: 700;
+  font-size: 4rem;
+  margin-bottom: 5%;
+}
+.entry-screen{
+  margin-left: 7%;
+  margin-top: 7%;
+  width: 50%;
+  display: inline-block;
+}
+.entry-screen-other{
+  margin-left: 7%;
+  margin-top: 7%;
+  width: 80%;
+  display: inline-block;
+}
+h3{
+  line-height: 1.5;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 500;
+  font-size: 1.4rem;
+}
+.btn{
+  margin-top: 30px;
+  background-color: #F17281;
+  border-color: #F17281;
+  border-radius: 25px;
+}
+.btn:hover{
+  background-color: #EB5468;
+  border-color: #EB5468;
+}
+.main_img{
+  margin-top: 10%;
+  width: 90%;
+}
+.sad_img{
+  margin-left: 7%;
+  margin-top: 11%;
+  width: 80%;
+}
+.entry-screen2{
+  width: 30%;
+  float: right;
+}
+.second-page{
+  width: 45%;
+  margin-right: 4%;
+  margin-top: 5%;
+  float: right;
+  display: inline-block;
+}
+.second-page2{
+  width: 35%;
+  margin-left: 5.5%;
+  float: left;
+}
+.second-page-data{
+  border-radius: 25px;
+  width: 80%;
+}
+.ListOne{
+  margin-left: 15%;
+  width: 100%;
+}
+.ListTwo{
+  margin-top: 10%;
+  margin-left: 13%;
+  width: 97%;
+}
+.read-more{
+  font-size: 1.4rem;
+  color: #F17281;
+  text-decoration: none;
+}
+.read-more:hover{
+  color: #F41936;
+  text-decoration: none;
+}
+.icon{
+  width: 4%;
+  margin-left: 35px;
+  text-decoration: none;
+}
