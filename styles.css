@@ -147,3 +147,17 @@ h3{
   margin-left: 35px;
   text-decoration: none;
 }
+@media (max-width:991px) {
+.read-more{
+  font-size: 2rem;
+  }
+  h1{
+  font-size: 4.5rem;
+  }
+  a{
+    font-size: 1.6rem;
+}
+  .navbar-brand{
+    font-size: 2rem;
+  }
+}
