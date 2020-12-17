@@ -73,6 +73,11 @@ h1{
   width: 50%;
   display: inline-block;
 }
+.entry-screen3{
+  margin-left: 7%;
+  width: 50%;
+  display: inline-block;
+}
 .entry-screen-other{
   margin-left: 7%;
   margin-top: 7%;
@@ -112,6 +117,12 @@ h2{
   width: 45%;
   margin-right: 4%;
   margin-top: 5%;
+  float: right;
+  display: inline-block;
+}
+.second-page3{
+  width: 45%;
+  margin-right: 4%;
   float: right;
   display: inline-block;
 }
@@ -174,6 +185,12 @@ align-items: center;
     width: 60%;
   }
   .second-page{
+    width: 65%;
+  }
+    .entry-screen3{
+    width: 60%;
+  }
+  .second-page3{
     width: 65%;
   }
   h2{
