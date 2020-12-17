@@ -202,4 +202,7 @@ align-items: center;
 .header{
   text-align: center;
   }
+.heading{
+  padding-left: 5%;
+  }
 }
