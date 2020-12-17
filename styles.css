@@ -133,6 +133,7 @@ h3{
   margin-left: 13%;
   width: 97%;
 }
+
 .read-more{
   font-size: 1.4rem;
   color: #F17281;
@@ -149,13 +150,16 @@ h3{
 }
 @media (max-width:991px) {
 .read-more{
-  font-size: 2rem;
+  font-size: 1.8rem;
   }
   h1{
   font-size: 4.5rem;
   }
   a{
     font-size: 1.6rem;
+}
+  .navbar-collapse{
+align-items: center;
 }
   .navbar-brand{
     font-size: 2rem;
