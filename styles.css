@@ -177,9 +177,11 @@ align-items: center;
   }
   .entry-screen2{
   width: 25%;
+  margin-top: 5%;
   }
   .second-page2{
   width: 25%;
+    margin-top: 5%;
 }
   .entry-screen{
     width: 60%;
@@ -188,10 +190,10 @@ align-items: center;
     width: 60%;
   }
     .entry-screen3{
-    width: 60%;
+width: 90%;
   }
   .second-page3{
-    width: 60%;
+width: 90%;
   }
   h2{
   line-height: 1.5;
