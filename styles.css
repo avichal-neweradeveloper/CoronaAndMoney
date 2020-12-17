@@ -79,7 +79,7 @@ h1{
   width: 80%;
   display: inline-block;
 }
-h3{
+h2{
   line-height: 1.5;
   font-family: 'Montserrat', sans-serif;
   font-weight: 500;
@@ -176,4 +176,10 @@ align-items: center;
   .second-page{
     width: 65%;
   }
+  h2{
+  line-height: 1.5;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 500;
+  font-size: 2rem;
+}
 }
