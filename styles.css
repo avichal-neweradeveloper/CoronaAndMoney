@@ -208,4 +208,9 @@ align-items: center;
   .title-icon{
   width: 9%;
   }
+  .btn{
+  border-radius: 50px;
+  padding: 0.5rem 2rem;
+  font-size: 2rem;  
+}
 }
