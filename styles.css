@@ -118,6 +118,9 @@ h2{
   width: 30%;
   float: right;
 }
+.navbar-collapse{
+  margin-left: 36rem;
+}
 .second-page{
   width: 45%;
   margin-right: 4%;
@@ -175,7 +178,8 @@ h2{
     font-size: 2rem;
 }
   .navbar-collapse{
-align-items: center;
+    align-items: center;
+    margin-left: 0;
 }
   .navbar-brand{
     font-size: 2.5rem;
